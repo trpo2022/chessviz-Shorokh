@@ -6,7 +6,7 @@
 // Chessviz function
 
 void Create(char board[8][8]);
-void Show(char c[8][8]);
+//void Show(char c[8][8]);
 void Error();
 int ParseX(char n);
 int ParseY(char n);
