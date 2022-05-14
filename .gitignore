@@ -1,0 +1,11 @@
+# no *.o or *.a files
+*.[oa]
+# no *.d files
+*.d
+# no temporary files
+*~
+*swp
+# no *.txt files
+*.txt
+# but track input.txt
+! input.txt
